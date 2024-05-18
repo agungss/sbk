@@ -1,4 +1,5 @@
-# Quizapp
+# SBK Quiz
+An Angular Quiz about Nahwu and Sharaf
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 11.2.4.
 
