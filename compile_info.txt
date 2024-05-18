@@ -1,0 +1,28 @@
+perintahnya ubah web ke android apk
+ng build
+
+#install the capacitor CLI locally
+npm install @capacitor/cli --save-dev
+
+#initialize capacitor in your angular project
+npx cap init
+
+#install the required packages
+npm install @capacitor/core @capacitor/ios @capacitor/android
+
+#add the native platforms
+npx cap add android
+#After making Working Angular Project:
+
+npx cap add ios
+
+#correction: webDir -> add "/andnameoftheapp"
+
+run again:
+npx cap sync
+
+then:
+ng build && npx cap copy
+
+then open the project:
+npx cap open android
