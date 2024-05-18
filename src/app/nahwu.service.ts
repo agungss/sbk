@@ -1411,6 +1411,146 @@ export class NahwuService {
           { option: "Mudhol Ilaih", correct: true }
         ]
       },
+      {
+        question: "Harokat akhir kata  المشرك  dalam kalimat : إن المشرك في النار  adalah...",
+        answer: [
+          {
+            option: "Dhommah",
+            correct: false,
+          },
+          {
+            option: "Fathah", correct: true
+          },
+          { option: "Kasroh", correct: false },
+          { option: "Sukun", correct: false }
+        ]
+      },
+      {
+        question: "Harokat akhir kata  الأعمال  dalam kalimat : إنما الأعمال بالخواتم  adalah...",
+        answer: [
+          {
+            option: "Dhommah",
+            correct: true,
+          },
+          {
+            option: "Fathah", correct: false
+          },
+          { option: "Kasroh", correct: false },
+          { option: "Sukun", correct: false }
+        ]
+      },
+      {
+        question: "Harokat akhir kata  يسرا  dalam kalimat : إن مع العسر يسرا adalah fathah, posisinya sebagai apa...?",
+        answer: [
+          {
+            option: "Mubtada",
+            correct: false,
+          },
+          {
+            option: "Khobar", correct: false
+          },
+          { option: "Isim Inna", correct: true },
+          { option: "Khobar Inna", correct: false }
+        ]
+      },
+      {
+        question: "Harokat akhir kata  يوم  dalam kalimat : ذهب محمد إلى المدينة يوم الجمعة adalah...",
+        answer: [
+          {
+            option: "Dhommah",
+            correct: false,
+          },
+          {
+            option: "Fathah", correct: true
+          },
+          { option: "Sukun", correct: false },
+          { option: "Kasroh", correct: false }
+        ]
+      },
+      {
+        question: "Harokat akhir kata هذه السنة  dalam kalimat : سافرت إلى مكة هذه السنة adalah fathah, posisinya sebagai apa...?",
+        answer: [
+          {
+            option: "Maf'ul Bih",
+            correct: false,
+          },
+          {
+            option: "Maf'ul Fiih", correct: true
+          },
+          { option: "Mustatsna", correct: false },
+          { option: "Munada", correct: false }
+        ]
+      },
+      {
+        question: "Harokat akhir kata  الله  dalam kalimat : لا معبود بحق سوى الله adalah...",
+        answer: [
+          {
+            option: "Dhommah",
+            correct: false,
+          },
+          {
+            option: "Fathah", correct: false
+          },
+          { option: "Kasroh", correct: true },
+          { option: "Sukun", correct: false }
+        ]
+      },
+      {
+        question: "Harokat akhir kata  غير  dalam kalimat : صلى المسلمون في المسجد غير سعيد adalah...",
+        answer: [
+          {
+            option: "Dhommah",
+            correct: false,
+          },
+          {
+            option: "Fathah", correct: true
+          },
+          { option: "Kasroh", correct: false },
+          { option: "Sukun", correct: false }
+        ]
+      },
+      {
+        question: "Harokat akhir kata  حامد  dalam kalimat : ما قام التاجرون إلا حامد adalah...",
+        answer: [
+          {
+            option: "Dhommah",
+            correct: true,
+          },
+          {
+            option: "Fathah", correct: false
+          },
+          { option: "Kasroh", correct: false },
+          { option: "Sukun", correct: false }
+        ]
+      },
+      {
+        question: "Harokat akhir kata  المدرس  dalam kalimat : ما قرآ إلا المدرس adalah...",
+        answer: [
+          {
+            option: "Dhommah",
+            correct: true,
+          },
+          {
+            option: "Fathah", correct: false
+          },
+          { option: "Kasroh", correct: false },
+          { option: "Sukun", correct: false }
+        ]
+      },
+      {
+        question: "Harokat akhir kata  الخير  dalam kalimat : ما عملنا إلا الخير adalah...",
+        answer: [
+          {
+            option: "Dhommah",
+            correct: false,
+          },
+          {
+            option: "Fathah", correct: true
+          },
+          { option: "Kasroh", correct: false },
+          { option: "Sukun", correct: false }
+        ]
+      },
       
 
       
