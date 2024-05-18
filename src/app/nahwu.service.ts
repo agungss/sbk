@@ -1551,6 +1551,146 @@ export class NahwuService {
           { option: "Sukun", correct: false }
         ]
       },
+      {
+        question: "Berikut ini adalah teman-teman كان, kecuali",
+        answer: [
+          {
+            option: "ليس",
+            correct: false,
+          },
+          {
+            option: "حسن", correct: true
+          },
+          { option: "صار", correct: false },
+          { option: "لا يزال", correct: false }
+        ]
+      },
+      {
+        question: "Harokat akhir kata  الله  dalam kalimat : وكان الله غفورا رحيما adalah...",
+        answer: [
+          {
+            option: "Dhommah",
+            correct: true,
+          },
+          {
+            option: "Fathah", correct: false
+          },
+          { option: "Kasroh", correct: false },
+          { option: "Sukun", correct: false }
+        ]
+      },
+      {
+        question: "Harokat akhir kata  نشيطا  dalam kalimat : ليس زيد نشيطا adalah fathah, posisinya sebagai apa...?",
+        answer: [
+          {
+            option: "Mubtada dari ليس",
+            correct: false,
+          },
+          {
+            option: "Khobar dari ليس", correct: true
+          },
+          { option: "Isim dari ليس", correct: false },
+          { option: "Maf'ul dari ليس", correct: false }
+        ]
+      },
+      {
+        question: "Harokat akhir kata  حميد  dalam kalimat : ما زال حميد عالما adalah dhommah... Posisinya sebagai apa?",
+        answer: [
+          {
+            option: "Mubtada dari مازال",
+            correct: false,
+          },
+          {
+            option: "Khobar dari مازال", correct: false
+          },
+          { option: "Isim dari مازال", correct: true },
+          { option: "Maf'ul dari مازال", correct: false }
+        ]
+      },
+      {
+        question: "Harokat akhir kata  جميلا  dalam kalimat : رأيت مسجدا جميلا adalah fathah... Posisinya sebagai apa?",
+        answer: [
+          {
+            option: "Maf'ul Bih",
+            correct: false,
+          },
+          {
+            option: "Mudhof Ilaih", correct: false
+          },
+          { option: "Mudhof", correct: false },
+          { option: "Na'at", correct: true }
+        ]
+      },
+      {
+        question: "Harokat akhir kata  الأحمر  dalam kalimat : كتبت بالقلم الأحمر adalah ... dan sebagai apa?",
+        answer: [
+          {
+            option: "Dhommah karena khobar",
+            correct: false,
+          },
+          {
+            option: "Fathah karena Maf'ul bih", correct: false
+          },
+          { option: "Kasroh karena Na'at", correct: true },
+          { option: "Kasroh karena Mudhof ilaih", correct: false }
+        ]
+      },
+      {
+        question: "Harokat akhir kata  كبيرة  dalam kalimat : القاهرة مدينة كبيرة adalah ... dan sebagai apa?",
+        answer: [
+          {
+            option: "Dhommah sebagai khobar",
+            correct: false,
+          },
+          {
+            option: "Dhommah sebagai Mubtada", correct: false
+          },
+          { option: "Dhommah sebagai Na'at", correct: true },
+          { option: "Kasroh sebagai mudhof ilaih", correct: false }
+        ]
+      },
+      {
+        question: "Harokat akhir kata  الجميلة  dalam kalimat : تلك سيارتي الجميلة adalah ... dan sebagai apa?",
+        answer: [
+          {
+            option: "Dhommah sebagai mubtada'",
+            correct: false,
+          },
+          {
+            option: "Fathah sebagai Maf'ul", correct: false
+          },
+          { option: "Dhommah sebagai Na'at", correct: true },
+          { option: "Fathah sebagai Munada", correct: false }
+        ]
+      },
+      {
+        question: "Harokat akhir kata  المكتبة  dalam kalimat : رجع حسن من السوق والمكتبة adalah...",
+        answer: [
+          {
+            option: "Dhommah",
+            correct: false,
+          },
+          {
+            option: "Fathah", correct: false
+          },
+          { option: "Kasroh", correct: true },
+          { option: "Sukun", correct: false }
+        ]
+      },
+      {
+        question: "Harokat akhir kata  المدير  dalam kalimat : ذهب المدرس والمدير إلى المدينة  adalah...",
+        answer: [
+          {
+            option: "Dhommah",
+            correct: true,
+          },
+          {
+            option: "Fathah", correct: false
+          },
+          { option: "Kasroh", correct: false },
+          { option: "Sukun", correct: false }
+        ]
+      },
       
 
       
