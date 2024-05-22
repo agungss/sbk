@@ -1691,6 +1691,160 @@ export class NahwuService {
           { option: "Sukun", correct: false }
         ]
       },
+      {
+        question: "Harokat akhir kata  جميع dalam kalimat : رأينا المسلمين جميعهم adalah...",
+        answer: [
+          {
+            option: "Dhommah",
+            correct: false,
+          },
+          {
+            option: "Fathah", correct: true
+          },
+          { option: "Kasroh", correct: false },
+          { option: "Sukun", correct: false }
+        ]
+      },
+      {
+        question: "Harokat akhir kata  كل  dalam kalimat : جاء المدرسون كلهم adalah...",
+        answer: [
+          {
+            option: "Dhommah",
+            correct: true,
+          },
+          {
+            option: "Fathah", correct: false
+          },
+          { option: "Kasroh", correct: false },
+          { option: "Sukun", correct: false }
+        ]
+      },
+      {
+        question: "Harokat akhir kata  كل  dalam kalimat : ركبوا سيارة المدرسة مع الضيوف كلهم adalah...",
+        answer: [
+          {
+            option: "Dhommah",
+            correct: false,
+          },
+          {
+            option: "Fathah", correct: false
+          },
+          { option: "Kasroh", correct: true },
+          { option: "Sukun", correct: false }
+        ]
+      },
+      {
+        question: "Harokat akhir kata  بلال  dalam kalimat : درست في مجلس الشيخ بلال adalah...",
+        answer: [
+          {
+            option: "Dhommah",
+            correct: false,
+          },
+          {
+            option: "Fathah", correct: false
+          },
+          { option: "Kasroh", correct: true },
+          { option: "Sukun", correct: false }
+        ]
+      },
+      {
+        question: "Harokat akhir kata  نصف  dalam kalimat : قرأت الكتاب الجديد نصفه adalah...",
+        answer: [
+          {
+            option: "Dhommah",
+            correct: false,
+          },
+          {
+            option: "Fathah", correct: true
+          },
+          { option: "Kasroh", correct: false },
+          { option: "Sukun", correct: false }
+        ]
+      },
+      {
+        question: "Harokat akhir kata  نصف  dalam kalimat : قرأت الكتاب الجديد نصفه adalah...",
+        answer: [
+          {
+            option: "Dhommah",
+            correct: false,
+          },
+          {
+            option: "Fathah", correct: true
+          },
+          { option: "Kasroh", correct: false },
+          { option: "Sukun", correct: false }
+        ]
+      },
+      {
+        question: "Harokat akhir kata  كتاب  dalam kalimat : نفعني محمد كتابه adalah...",
+        answer: [
+          {
+            option: "Dhommah karena khobar",
+            correct: false,
+          },
+          {
+            option: "Dhommah karena Badal", correct: true
+          },
+          { option: "Fathah Karena Maf'ul bih", correct: false },
+          { option: "Fathah karena Badal", correct: false }
+        ]
+      },
+      {
+        question: "Mashdar dari جلس adalah....",
+        answer: [
+          {
+            option: "جالس",
+            correct: false,
+          },
+          {
+            option: "مجلوس", correct: false
+          },
+          { option: "جلوس", correct: true },
+          { option: "أجلس", correct: false }
+        ]
+      },
+      {
+        question: "Mashdar dari قرأ adalah...",
+        answer: [
+          {
+            option: "يقرأ",
+            correct: false,
+          },
+          {
+            option: "مقروء", correct: false
+          },
+          { option: "اقرأ", correct: false },
+          { option: "قراءة", correct: true }
+        ]
+      },
+      {
+        question: "Mashdar dari جاهد adalah....",
+        answer: [
+          {
+            option: "جاهد",
+            correct: false,
+          },
+          {
+            option: "مجهود", correct: false
+          },
+          { option: "جهاد", correct: true },
+          { option: "مجاهدة", correct: false }
+        ]
+      },
+      {
+        question: "Mashdar dari علم (allama) adalah....",
+        answer: [
+          {
+            option: "تعليم",
+            correct: true,
+          },
+          {
+            option: "تعلم", correct: false
+          },
+          { option: "معلوم", correct: false },
+          { option: "اعلم", correct: false }
+        ]
+      },
       
 
       
