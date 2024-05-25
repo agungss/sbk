@@ -1,6 +1,11 @@
 # SBK Quiz
-An Angular Quiz about Nahwu and Sharaf
+An Angular Quiz about Nahwu and Sharaf.
+1. To run it, install angular using this terminal command: npm install -g @angular/cli
+2. extract the project and go to the folder project, run : export NODE_OPTIONS=--openssl-legacy-provider
+3. and run the project using: ng serve
+4. enjoy
 
+   
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 11.2.4.
 
 ## Development server
