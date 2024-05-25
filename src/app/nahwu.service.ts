@@ -1845,6 +1845,146 @@ export class NahwuService {
           { option: "اعلم", correct: false }
         ]
       },
+      {
+        question: "Kata شوقا dalam kalimat : رجعت إلى البيت شوقا للأسرة berposisi sebagai apa?",
+        answer: [
+          {
+            option: "Hal",
+            correct: false,
+          },
+          {
+            option: "Maf'ul Li Ajlih", correct: true
+          },
+          { option: "Maf'ul Ma'ah", correct: false },
+          { option: "Maf'ul Muthlaq", correct: false }
+        ]
+      },
+      {
+        question: "Kata راكبا dalam kalimat : أذهب إلى السوق راكبا berposisi sebagai apa?",
+        answer: [
+          {
+            option: "Hal",
+            correct: true,
+          },
+          {
+            option: "Maf'ul Li Ajlih", correct: false
+          },
+          { option: "Maf'ul Ma'ah", correct: false },
+          { option: "Maf'ul Muthlaq", correct: false }
+        ]
+      },
+      {
+        question: "Kata تأديبا dalam kalimat : ضربت الولد تأديبا له berposisi sebagai apa?",
+        answer: [
+          {
+            option: "Hal",
+            correct: false,
+          },
+          {
+            option: "Maf'ul Li Ajlih", correct: true
+          },
+          { option: "Maf'ul Ma'ah", correct: false },
+          { option: "Maf'ul Muthlaq", correct: false }
+        ]
+      },
+      {
+        question: "Kata القمر (dibaca fathah) dalam kalimat : سرت والقمر berposisi sebagai apa?",
+        answer: [
+          {
+            option: "Hal",
+            correct: false,
+          },
+          {
+            option: "Maf'ul Li Ajlih", correct: false
+          },
+          { option: "Maf'ul Ma'ah", correct: true },
+          { option: "Maf'ul Muthlaq", correct: false }
+        ]
+      },
+      {
+        question: "Kata أكلا dalam kalimat : أكلت  الفاكهة أكلا  berposisi sebagai apa?",
+        answer: [
+          {
+            option: "Hal",
+            correct: false,
+          },
+          {
+            option: "Maf'ul Li Ajlih", correct: false
+          },
+          { option: "Maf'ul Ma'ah", correct: false },
+          { option: "Maf'ul Muthlaq", correct: true }
+        ]
+      },
+      {
+        question: "Kata اجتهادا dalam kalimat : اجتهدت في الدراسة اجتهادا شديدا berposisi sebagai apa?",
+        answer: [
+          {
+            option: "Hal",
+            correct: false,
+          },
+          {
+            option: "Maf'ul Li Ajlih", correct: false
+          },
+          { option: "Maf'ul Ma'ah", correct: false },
+          { option: "Maf'ul Muthlaq", correct: true }
+        ]
+      },
+      {
+        question: "Kata مرحا dalam ayat : ولا تمش في الأرض مرحا berposisi sebagai apa?",
+        answer: [
+          {
+            option: "Hal",
+            correct: true,
+          },
+          {
+            option: "Maf'ul Li Ajlih", correct: false
+          },
+          { option: "Maf'ul Ma'ah", correct: false },
+          { option: "Maf'ul Muthlaq", correct: false }
+        ]
+      },
+      {
+        question: "Kata رغبة dalam kalimat : أذهب إلى المدرسة رغبة في العلم berposisi sebagai apa?",
+        answer: [
+          {
+            option: "Hal",
+            correct: false,
+          },
+          {
+            option: "Maf'ul Li Ajlih", correct: true
+          },
+          { option: "Maf'ul Ma'ah", correct: false },
+          { option: "Maf'ul Muthlaq", correct: false }
+        ]
+      },
+      {
+        question: "Kata ضربة dalam kalimat : ضربت زيدا ضربة واحدة berposisi sebagai apa?",
+        answer: [
+          {
+            option: "Hal",
+            correct: false,
+          },
+          {
+            option: "Maf'ul Li Ajlih", correct: false
+          },
+          { option: "Maf'ul Ma'ah", correct: false },
+          { option: "Maf'ul Muthlaq", correct: true }
+        ]
+      },
+      {
+        question: "Kata قعودا dalam kalimat : جلست قعودا berposisi sebagai apa?",
+        answer: [
+          {
+            option: "Hal",
+            correct: false,
+          },
+          {
+            option: "Maf'ul Li Ajlih", correct: false
+          },
+          { option: "Maf'ul Ma'ah", correct: false },
+          { option: "Maf'ul Muthlaq", correct: true }
+        ]
+      },
       
 
       
