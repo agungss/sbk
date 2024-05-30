@@ -1985,6 +1985,146 @@ export class NahwuService {
           { option: "Maf'ul Muthlaq", correct: true }
         ]
       },
+      {
+        question: "Kata البيت (dibaca fathah) dalam kalimat : ما أكبر البيت berposisi sebagai apa?",
+        answer: [
+          {
+            option: "Tamyiz",
+            correct: false,
+          },
+          {
+            option: "Ta'ajjub", correct: true
+          },
+          { option: "Tahdzir", correct: false },
+          { option: "Ikhtishosh", correct: false }
+        ]
+      },
+      {
+        question: "Kata الطالب (dibaca fathah) dalam kalimat : أنا - الطالب- أطلب العلم berposisi sebagai apa?",
+        answer: [
+          {
+            option: "Tamyiz",
+            correct: false,
+          },
+          {
+            option: "Ta'ajjub", correct: false
+          },
+          { option: "Tahdzir", correct: false },
+          { option: "Ikhtishosh", correct: true }
+        ]
+      },
+      {
+        question: "Kata وجها dalam kalimat : عمر جميل وجها berposisi sebagai apa?",
+        answer: [
+          {
+            option: "Tamyiz",
+            correct: true,
+          },
+          {
+            option: "Ta'ajjub", correct: false
+          },
+          { option: "Tahdzir", correct: false },
+          { option: "Ikhtishosh", correct: false }
+        ]
+      },
+      {
+        question: "Kata مصباحا dalam kalimat : لي أحد عشر مصباحا berposisi sebagai apa?",
+        answer: [
+          {
+            option: "Tamyiz",
+            correct: true,
+          },
+          {
+            option: "Ta'ajjub", correct: false
+          },
+          { option: "Tahdzir", correct: false },
+          { option: "Ikhtishosh", correct: false }
+        ]
+      },
+      {
+        question: "Harokat akhir kata  أقلام dalam kalimat : في الحقيبة ثلاثة أقلام adalah...",
+        answer: [
+          {
+            option: "Dhommah",
+            correct: false,
+          },
+          {
+            option: "Fathah", correct: false
+          },
+          { option: "Kasroh", correct: true },
+          { option: "Sukun", correct: false }
+        ]
+      },
+      {
+        question: "Harokat akhir kata  الخيانة dalam kalimat : إياكم والخيانة adalah...",
+        answer: [
+          {
+            option: "Dhommah",
+            correct: false,
+          },
+          {
+            option: "Fathah", correct: true
+          },
+          { option: "Kasroh", correct: false },
+          { option: "Sukun", correct: false }
+        ]
+      },
+      {
+        question: "Harokat akhir kata  كل dalam kalimat :أحترم الأستاذ كل الاحترام  adalah...",
+        answer: [
+          {
+            option: "Dhommah",
+            correct: false,
+          },
+          {
+            option: "Fathah", correct: true
+          },
+          { option: "Kasroh", correct: false },
+          { option: "Sukun", correct: false }
+        ]
+      },
+      {
+        question: "Kata كتابا dalam kalimat : أنت أكثر مني كتابا berposisi sebagai apa?",
+        answer: [
+          {
+            option: "Tamyiz",
+            correct: true,
+          },
+          {
+            option: "Ta'ajjub", correct: false
+          },
+          { option: "Tahdzir", correct: false },
+          { option: "Ikhtishosh", correct: false }
+        ]
+      },
+      {
+        question: "Berikut ini adalah fi'il mujarrod, kecuali...",
+        answer: [
+          {
+            option: "ركب - يركب",
+            correct: true,
+          },
+          {
+            option: "قرأ - يقرأ", correct: false
+          },
+          { option: "علم - يعلم", correct: false },
+          { option: "جاهد - يجاهد", correct: false }
+        ]
+      },
+      {
+        question: "Berikut ini adalah fi'il mazid, kecuali...",
+        answer: [
+          {
+            option: "أخرج - يخرج",
+            correct: false,
+          },
+          {
+            option: "خرج - يخرج", correct: true
+          },
+          { option: "استخرج - يستخرج", correct: false },
+          { option: "انكسر - ينكسر", correct: false }
+        ]
+      },
       
 
       
