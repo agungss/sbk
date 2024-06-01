@@ -2125,6 +2125,146 @@ export class NahwuService {
           { option: "انكسر - ينكسر", correct: false }
         ]
       },
+      {
+        question: "Dhomir Fi'il Madhi kata أخبرتم adalah ...",
+        answer: [
+          {
+            option: "هم",
+            correct: false,
+          },
+          {
+            option: "أنتم", correct: true
+          },
+          { option: "أنا", correct: false },
+          { option: "نحن", correct: false }
+        ]
+      },
+      {
+        question: "Dhomir Fi'il Mudhori kata يضاربون adalah ...",
+        answer: [
+          {
+            option: "هم",
+            correct: true,
+          },
+          {
+            option: "أنتم", correct: false
+          },
+          { option: "أنا", correct: false },
+          { option: "نحن", correct: false }
+        ]
+      },
+      {
+        question: "Dhomir Fi'il  Amr kata تعلمي adalah ...",
+        answer: [
+          {
+            option: "هم",
+            correct: false,
+          },
+          {
+            option: "أنتم", correct: false
+          },
+          { option: "أنت", correct: true },
+          { option: "نحن", correct: false }
+        ]
+      },
+      {
+        question: "Dhomir Fi'il  Madhi kata استمعوا adalah ...",
+        answer: [
+          {
+            option: "أنتم",
+            correct: false,
+          },
+          {
+            option: "أنت", correct: false
+          },
+          { option: "نحن", correct: false },
+          { option: "هم", correct: true }
+        ]
+      },
+      {
+        question: "Dhomir Fi'il  Mudhori kata نستغفر adalah ...",
+        answer: [
+          {
+            option: "أنتم",
+            correct: false,
+          },
+          {
+            option: "أنت", correct: false
+          },
+          { option: "نحن", correct: true },
+          { option: "هم", correct: false }
+        ]
+      },
+      {
+        question: "Dhomir Fi'il  Amr kata أخرجوا adalah ...",
+        answer: [
+          {
+            option: "أنتم",
+            correct: true,
+          },
+          {
+            option: "أنت", correct: false
+          },
+          { option: "أنتن", correct: false },
+          { option: "هم", correct: false }
+        ]
+      },
+      {
+        question: "Dhomir Fi'il  Madhi kata تعلمتن adalah ...",
+        answer: [
+          {
+            option: "أنتم",
+            correct: false,
+          },
+          {
+            option: "أنت", correct: false
+          },
+          { option: "أنتن", correct: true },
+          { option: "هم", correct: false }
+        ]
+      },
+      {
+        question: "Dhomir Fi'il  Mudhori kata يجتمعان adalah ...",
+        answer: [
+          {
+            option: "هو",
+            correct: false,
+          },
+          {
+            option: "هما", correct: true
+          },
+          { option: "هم", correct: false },
+          { option: "هن", correct: false }
+        ]
+      },
+      {
+        question: "Dhomir Fi'il  Madhi kata قاتلت adalah ...",
+        answer: [
+          {
+            option: "هو",
+            correct: false,
+          },
+          {
+            option: "هما", correct: false
+          },
+          { option: "أنا", correct: true },
+          { option: "نحن", correct: false }
+        ]
+      },
+      {
+        question: "Dhomir Fi'il  Mudhori kata أتناول adalah ...",
+        answer: [
+          {
+            option: "هو",
+            correct: false,
+          },
+          {
+            option: "أنت", correct: false
+          },
+          { option: "أنا", correct: true },
+          { option: "نحن", correct: false }
+        ]
+      },
       
 
       
