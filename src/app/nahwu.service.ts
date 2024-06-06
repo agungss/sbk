@@ -2265,6 +2265,146 @@ export class NahwuService {
           { option: "نحن", correct: false }
         ]
       },
+      {
+        question: "Kata kerja pasif disebut ...",
+        answer: [
+          {
+            option: "Fi'il Ma'lum",
+            correct: false,
+          },
+          {
+            option: "Fi'il Majhul", correct: true
+          },
+          { option: "Fi'il Mujarrod", correct: false },
+          { option: "Fi'il Mazid", correct: false }
+        ]
+      },
+      {
+        question: "Kata kerja خلق pada kalimat : خلق الإنسان من طين dibawah dibaca...",
+        answer: [
+          {
+            option: "Kholaqo",
+            correct: false,
+          },
+          {
+            option: "Kholqun", correct: false
+          },
+          { option: "Khuliqo", correct: true },
+          { option: "Khuluqun", correct: false }
+        ]
+      },
+      {
+        question: "Kata kerja يكتب pada kalimat : يكتب الدرس على السبورة dibawah dibaca...",
+        answer: [
+          {
+            option: "Yaktubu",
+            correct: false,
+          },
+          {
+            option: "Yuktibu", correct: false
+          },
+          { option: "Yaktibu", correct: false },
+          { option: "Yuktabu", correct: true }
+        ]
+      },
+      {
+        question: "Kata kerja كتب pada kalimat : كتب عليكم القصاص في القتلى dibaca...",
+        answer: [
+          {
+            option: "Kataba",
+            correct: false,
+          },
+          {
+            option: "Kutiba", correct: true
+          },
+          { option: "Kutubun", correct: false },
+          { option: "Katiba", correct: false }
+        ]
+      },
+      {
+        question: "Harokat akhir kata kerja أجلس pada kalimat : أريد أن أجلس هناك  adalah...",
+        answer: [
+          {
+            option: "Dhommah",
+            correct: false,
+          },
+          {
+            option: "Fathah", correct: true
+          },
+          { option: "Kasroh", correct: false },
+          { option: "Sukun", correct: false }
+        ]
+      },
+      {
+        question: "Harokat akhir kata kerja يرجع pada kalimat : لم يرجع المدرس من المدينة adalah...",
+        answer: [
+          {
+            option: "Dhommah",
+            correct: false,
+          },
+          {
+            option: "Fathah", correct: false
+          },
+          { option: "Kasroh", correct: false },
+          { option: "Sukun", correct: true }
+        ]
+      },
+      {
+        question: "Harokat akhir kata kerja ندرس pada kalimat : أذهب إلى المدرسة لندرس اللغة العربية adalah...",
+        answer: [
+          {
+            option: "Kasroh",
+            correct: false,
+          },
+          {
+            option: "Sukun", correct: false
+          },
+          { option: "Dhommah", correct: false },
+          { option: "Fathah", correct: true }
+        ]
+      },
+      {
+        question: "Harokat akhir kata kerja تضرب pada kalimat : لا تضرب ولدك بالعصا  adalah...",
+        answer: [
+          {
+            option: "Kasroh",
+            correct: false,
+          },
+          {
+            option: "Sukun", correct: true
+          },
+          { option: "Dhommah", correct: false },
+          { option: "Fathah", correct: false }
+        ]
+      },
+      {
+        question: "Harokat akhir kata kerja فتنجح pada kalimat : اجتهد فتنجح آخر السنة adalah...",
+        answer: [
+          {
+            option: "Kasroh",
+            correct: false,
+          },
+          {
+            option: "Fathah", correct: true
+          },
+          { option: "Dhommah", correct: false },
+          { option: "Sukun", correct: false }
+        ]
+      },
+      {
+        question: "Harokat akhir kata kerja نقرأ pada kalimat : لن نقرأ تلك الرسالة  adalah...",
+        answer: [
+          {
+            option: "Kasroh",
+            correct: false,
+          },
+          {
+            option: "Dhommah", correct: false
+          },
+          { option: "Fathah", correct: true },
+          { option: "Sukun", correct: false }
+        ]
+      },
       
 
       
