@@ -2405,6 +2405,146 @@ export class NahwuService {
           { option: "Sukun", correct: false }
         ]
       },
+      {
+        question: "Kata kerja تنجح pada kalimat : إن تجتهد في الدرس تنجح في الامتحان dibaca",
+        answer: [
+          {
+            option: "tanjahu",
+            correct: false,
+          },
+          {
+            option: "tanjaha", correct: false
+          },
+          { option: "tanjah", correct: true },
+          { option: "tanjahi", correct: false }
+        ]
+      },
+      {
+        question: "Kata kerja استجب pada kalimat : وقال ربكم ادعوني أستجب لكم dibaca sukun (astajib) karena sebagai...",
+        answer: [
+          {
+            option: "jawab syarat",
+            correct: false,
+          },
+          {
+            option: "mubtada", correct: false
+          },
+          { option: "khobar", correct: false },
+          { option: "jawab fiil tholab", correct: true }
+        ]
+      },
+      {
+        question: "Harokat akhir kata kerja رحمة pada kalimat : لو لا رحمة الله لهلك الناس adalah...",
+        answer: [
+          {
+            option: "kasroh",
+            correct: false,
+          },
+          {
+            option: "dhommah", correct: false
+          },
+          { option: "fathah", correct: false },
+          { option: "sukun", correct: true }
+        ]
+      },
+      {
+        question: "Kata kerja يحاسب pada kalimat : مهما تعملوا يحاسبكم الله dibaca ...",
+        answer: [
+          {
+            option: "yuhaasibu",
+            correct: false,
+          },
+          {
+            option: "yuhaasiba", correct: false
+          },
+          { option: "yuhaasibi", correct: false },
+          { option: "yuhaasib", correct: true }
+        ]
+      },
+      {
+        question: "Kata kerja تدرس pada kalimat : أين تدرس اللغة العربية يا عبد الله؟ dibaca ...",
+        answer: [
+          {
+            option: "tadrusu",
+            correct: true,
+          },
+          {
+            option: "tadrusa", correct: false
+          },
+          { option: "tadrusi", correct: false },
+          { option: "tadrus", correct: false }
+        ]
+      },
+      {
+        question: "Kata kerja تفهم pada kalimat : اقرأه مرة أخرى تفهمه dibaca ...",
+        answer: [
+          {
+            option: "tafhamu",
+            correct: false,
+          },
+          {
+            option: "tafhama", correct: false
+          },
+          { option: "tafhami", correct: false },
+          { option: "tafham", correct: true }
+        ]
+      },
+      {
+        question: "Kata kerja تقرأ pada kalimat : أي كتاب تقرأ في المكتبة ؟ dibaca ...",
+        answer: [
+          {
+            option: "taqro'u",
+            correct: true,
+          },
+          {
+            option: "taqro'a", correct: false
+          },
+          { option: "taqro'i", correct: false },
+          { option: "taqro'", correct: false }
+        ]
+      },
+      {
+        question: "Berikut ini adalah bentuk isim fa'il, kecuali ",
+        answer: [
+          {
+            option: "كاتب - كافر",
+            correct: false,
+          },
+          {
+            option: "مسلم - منافق", correct: false
+          },
+          { option: "راع - داع", correct: false },
+          { option: "سجود - حضور", correct: true }
+        ]
+      },
+      {
+        question: "Isim Fa'il dari kata علّم (allama) adalah...",
+        answer: [
+          {
+            option: "عالم",
+            correct: false,
+          },
+          {
+            option: "معلم", correct: true
+          },
+          { option: "معلوم", correct: false },
+          { option: "اعلم", correct: false }
+        ]
+      },
+      {
+        question: "Isim Manqhus adalah berbentuk isim fa'il, contohnya..",
+        answer: [
+          {
+            option: "حامد - راجع",
+            correct: false,
+          },
+          {
+            option: "قاض - داع", correct: true
+          },
+          { option: "مقيم - منير", correct: false },
+          { option: "تعليم - تحسين", correct: false }
+        ]
+      },
       
 
       
