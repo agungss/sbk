@@ -2545,6 +2545,146 @@ export class NahwuService {
           { option: "تعليم - تحسين", correct: false }
         ]
       },
+      {
+        question: "Berikut ini adalah bentuk isim Maf'ul, kecuali",
+        answer: [
+          {
+            option: "مكتوب - ممدود",
+            correct: false,
+          },
+          {
+            option: "مدعوّ - ممنوع", correct: false
+          },
+          { option: "كفور - شكور", correct: true },
+          { option: "مقول - مبيع", correct: false }
+        ]
+      },
+      {
+        question: "Isim Maf'ul adalah bentuk kata yang memilik imbuhan terjemah ..",
+        answer: [
+          {
+            option: "Yang di ..... (yang ditulis)",
+            correct: false,
+          },
+          {
+            option: "Ter.... (tertulis)", correct: false
+          },
+          { option: "ter... kan (tertuliskan)", correct: false },
+          { option: "Semua jawaban benar", correct: true }
+        ]
+      },
+      {
+        question: "Isim Maf'ul dari kata قرأ adalah... ",
+        answer: [
+          {
+            option: "قارئ",
+            correct: false,
+          },
+          {
+            option: "مقروء", correct: true
+          },
+          { option: "مقرء", correct: false },
+          { option: "قراءة", correct: false }
+        ]
+      },
+      {
+        question: "Isim Maf'ul dari kata تاب  (bertaubat) adalah...",
+        answer: [
+          {
+            option: "توبة",
+            correct: false,
+          },
+          {
+            option: "يتوب", correct: false
+          },
+          { option: "متاب", correct: false },
+          { option: "متوب", correct: true }
+        ]
+      },
+      {
+        question: "Isim Maf'ul dari kata تلى (Membaca)  adalah...",
+        answer: [
+          {
+            option: "تال",
+            correct: false,
+          },
+          {
+            option: "متلى", correct: false
+          },
+          { option: "متلوّ", correct: true },
+          { option: "أتوب", correct: false }
+        ]
+      },
+      {
+        question: "Isim Maf'ul dari kata كال (menimbang)  adalah... ",
+        answer: [
+          {
+            option: "يكيل",
+            correct: false,
+          },
+          {
+            option: "مكيل", correct: true
+          },
+          { option: "مكال", correct: false },
+          { option: "مكول", correct: false }
+        ]
+      },
+      {
+        question: "Fi'il Mudhori dari kata  وزن (menimbang)  adalah... ",
+        answer: [
+          {
+            option: "يزون yazuunu",
+            correct: false,
+          },
+          {
+            option: "يزان yuzaanu", correct: false
+          },
+          { option: "يزين yaziinu", correct: false },
+          { option: "يزن yazinu", correct: true }
+        ]
+      },
+      {
+        question: "Fi'il Mudhori dari kata  عاد (kembali)  adalah... ",
+        answer: [
+          {
+            option: "يعد",
+            correct: false,
+          },
+          {
+            option: "يعود", correct: true
+          },
+          { option: "يعيد", correct: false },
+          { option: "يعاد", correct: false }
+        ]
+      },
+      {
+        question: "Fi'il Mudhori dari kata  نام (tidur)  adalah... ",
+        answer: [
+          {
+            option: "ينام",
+            correct: true,
+          },
+          {
+            option: "ينوم", correct: false
+          },
+          { option: "ينيم", correct: false },
+          { option: "ينم", correct: false }
+        ]
+      },
+      {
+        question: "Fi'il Amr dari kata  صام (puasa)  adalah... ",
+        answer: [
+          {
+            option: "صم (shum)",
+            correct: true,
+          },
+          {
+            option: "صم (shom)", correct: false
+          },
+          { option: "صم (shim)", correct: false },
+          { option: "صوم", correct: false }
+        ]
+      },
       
 
       
