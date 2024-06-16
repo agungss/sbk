@@ -2685,6 +2685,146 @@ export class NahwuService {
           { option: "صوم", correct: false }
         ]
       },
+      {
+        question: "Fi'il Mudhori dan Amr dari kata  دعا (berdoa)  adalah...",
+        answer: [
+          {
+            option: "يدعي - ادعو",
+            correct: false,
+          },
+          {
+            option: "يدعا - ادعا", correct: false
+          },
+          { option: "يدعو - ادعُ", correct: true },
+          { option: "يدع - ادعو", correct: false }
+        ]
+      },
+      {
+        question: "Fi'il Mudhori dan Amr dari kata  رمى (melempar)  adalah...",
+        answer: [
+          {
+            option: "يرمي - ارمِ",
+            correct: true,
+          },
+          {
+            option: "يرمي - ارمي", correct: false
+          },
+          { option: "يرمو - ارمو", correct: false },
+          { option: "يرمو - ارم", correct: false }
+        ]
+      },
+      {
+        question: "Fi'il Mudhori dan Amr dari kata  خشِيَ (takut)  adalah...",
+        answer: [
+          {
+            option: "يخشى - اخشَو",
+            correct: false,
+          },
+          {
+            option: "يخشى - اخشَي", correct: false
+          },
+          { option: "يخشى - اخشَ", correct: true },
+          { option: "يخشو - اخشَ", correct: false }
+        ]
+      },
+      {
+        question: "Fi'il Mudhori dan Amr dari kata  قوِيَ (kuat)  adalah... ",
+        answer: [
+          {
+            option: "يقوى - اقوي",
+            correct: false,
+          },
+          {
+            option: "يقوى - اقوو", correct: false
+          },
+          { option: "يقوا - اقوي", correct: false },
+          { option: "يقوى - اقوَ", correct: true }
+        ]
+      },
+      {
+        question: "Fi'il Mudhori dan Amr dari kata  طوى (melipat)  adalah...",
+        answer: [
+          {
+            option: "يطوي - اطوو",
+            correct: false,
+          },
+          {
+            option: "يطوي - اطوا", correct: false
+          },
+          { option: "يطوي - اطوِ", correct: true },
+          { option: "يطوو - اطو", correct: false }
+        ]
+      },
+      {
+        question: "Fi'il Madhi ini رجونا (kami berharap) dibaca... ",
+        answer: [
+          {
+            option: "Rojaunaa",
+            correct: true,
+          },
+          {
+            option: "Rajuunaa", correct: false
+          },
+          { option: "Rojwana", correct: false },
+          { option: "Rojawana", correct: false }
+        ]
+      },
+      {
+        question: "Fi'il Madhi ini لقيتم (kalian bertemu) dibaca...",
+        answer: [
+          {
+            option: "Laqoitum",
+            correct: false,
+          },
+          {
+            option: "Laqyatum", correct: false
+          },
+          { option: "Laqiitum", correct: true },
+          { option: "Laqoyatum", correct: false }
+        ]
+      },
+      {
+        question: "Fi'il Madhi ini نويت (saya berniat) dibaca... ",
+        answer: [
+          {
+            option: "Nawiitu",
+            correct: false,
+          },
+          {
+            option: "Nawayatu", correct: false
+          },
+          { option: "Nawyatu", correct: false },
+          { option: "Nawaitu", correct: true }
+        ]
+      },
+      {
+        question: "Fi'il Madhi dari Fi'il Mudhori ini ينسى (lupa) adalah... ",
+        answer: [
+          {
+            option: "نسِيَ nasiya",
+            correct: true,
+          },
+          {
+            option: "نسى nasaa", correct: false
+          },
+          { option: "نسا nasaa", correct: false },
+          { option: "نسو nasuu", correct: false }
+        ]
+      },
+      {
+        question: "Fi'il Madhi dari Fi'il Mudhori ini يسعى (berusaha) adalah... ",
+        answer: [
+          {
+            option: "سعي sa'iya",
+            correct: false,
+          },
+          {
+            option: "سعى sa'aa", correct: false
+          },
+          { option: "سعا sa'aa", correct: true },
+          { option: "سعو sa'uu", correct: false }
+        ]
+      },
       
 
       
